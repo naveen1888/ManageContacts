@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manage Contacts</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_internet_error">Please check your internet connection</string>
+    <string name="text_response_error">Some error occurred, please try again</string>
+    <string name="text_contacts">Contacts</string>
+    <string name="text_no_contact">No contacts found</string>
+    <string name="text_refresh">Refresh</string>
+</resources>
